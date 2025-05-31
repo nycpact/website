@@ -1,5 +1,8 @@
 # Note: Remove the baseurl in order to deploy at the domain root
-baseurl: /jekyll-theme-tufte
+# baseurl: /jekyll-theme-tufte
+domain: nycpact.github.io
+url: https://nycpact.github.io
+# baseurl: /
 title: jekyll-theme-tufte
 # Whether the header (with large title and subtitle) should be displayed
 header: false
