@@ -1,6 +1,6 @@
 ---
 layout: page-hero
-title: jekyll-theme-tufte
+title: PACT
 nav_title: About
 head_title: PACT
 subtitle: PhDs at Cornell Tech
