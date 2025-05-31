@@ -7,6 +7,8 @@ subtitle: A modern Jekyll theme based on tufte-css
 weight: 1
 ---
 
+Testing this
+
 [*jekyll-theme-tufte*](https://github.com/ab/jekyll-theme-tufte) is a Jekyll
 theme that implements the design ideas of Edward Tufte.
 It is enabled by [*tufte-css*](https://github.com/edwardtufte/tufte-css), a
