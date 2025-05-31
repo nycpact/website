@@ -19,4 +19,3 @@ excerpt_separator: <!--more-->
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 plugins:
   - jekyll-feed
-  - sidenote
