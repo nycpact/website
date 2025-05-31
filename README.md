@@ -1,3 +1,8 @@
+Will fix this README but to run, make sure you have ruby + jekyll and run the following commands:
+
+bundle
+bundle exec jekyll serve
+
 # jekyll-theme-tufte
 
 ## *A modern Jekyll theme based on [tufte-css](https://github.com/edwardtufte/tufte-css)*
