@@ -2,13 +2,14 @@
 layout: page-hero
 title: jekyll-theme-tufte
 nav_title: About
-head_title: jekyll-theme-tufte
-subtitle: A modern Jekyll theme based on tufte-css
+head_title: PACT
+subtitle: PhDs at Cornell Tech
 weight: 1
 ---
 
-Testing the deployment
+FINALLY GOT THE BUILD AND DEPLOYMENT WORKING!!
 
+<!-- 
 [*jekyll-theme-tufte*](https://github.com/ab/jekyll-theme-tufte) is a Jekyll
 theme that implements the design ideas of Edward Tufte.
 It is enabled by [*tufte-css*](https://github.com/edwardtufte/tufte-css), a
@@ -37,4 +38,4 @@ This theme is responsive and adapts to desktop and mobile screens. (Margin notes
 are displayed inline on narrow screens.) It also supports dark mode detection
 via `prefers-color-scheme`, looking good on dark and light backgrounds alike.
 
-An Atom RSS feed is provided at [`/feed.xml`]({{ site.baseurl }}/feed.xml).
+An Atom RSS feed is provided at [`/feed.xml`]({{ site.baseurl }}/feed.xml). -->
