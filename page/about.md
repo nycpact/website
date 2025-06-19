@@ -7,10 +7,7 @@ weight: 2
 
 ## Who We Are?
 
-President: Dani {% sidenote 'email' 'dv296[at]cornell.edu' %}
-
-Social Delegators: Teresa and Erica
-
+President: Dani{% sidenote 'email' 'dv296[at]cornell.edu' %}
 
 
 <!-- 
