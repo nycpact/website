@@ -1,11 +1,23 @@
 ---
 layout: page
-title: Tufte CSS
-subtitle: Reproduction of the tufte-css demo site by Dave Liepmann
-weight: 3
+title: About
+# subtitle: Board Members
+weight: 2
 ---
 
-*<strong>Note:</strong> This is a recreation in markdown of the upstream tufte-css demo page. The usage instructions here are for standalone tufte-css, not jekyll-theme-tufte. See the [markdown source code](https://github.com/ab/jekyll-theme-tufte/blob/main/page/tufte-css.md) for usage hints.*
+## Who We Are?
+
+President: Dani {% sidenote 'email' 'dv296[at]cornell.edu' %}
+
+Social Delegators: Teresa and Erica
+
+
+
+<!-- 
+{% maincolumn 'demo/img/exports-imports.png' 'From Edward Tufte, *Visual Display of Quantitative Information*, page 92.' %} -->
+
+
+<!-- *<strong>Note:</strong> This is a recreation in markdown of the upstream tufte-css demo page. The usage instructions here are for standalone tufte-css, not jekyll-theme-tufte. See the [markdown source code](https://github.com/ab/jekyll-theme-tufte/blob/main/page/tufte-css.md) for usage hints.*
 
 Tufte CSS provides tools to style web articles using the ideas demonstrated by Edward Tufte's books and handouts. Tufte's style is known for its simplicity, extensive use of sidenotes, tight integration of graphics with text, and carefully chosen typography.
 
@@ -174,4 +186,4 @@ Here is an ImageQuilt of 47 animal sounds over and over, in a figure constrained
 ## Epilogue
 
 Many thanks go to Edward Tufte for leading the way with his work. It is only through his kind and careful editing that this project accomplishes what it does. All errors of implementation are of course mine.
-
+ -->

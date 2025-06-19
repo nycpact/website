@@ -1,15 +1,24 @@
 ---
 layout: page-hero
-title: PACT
-nav_title: About
+title: PhDs at Cornell Tech
+nav_title: Home
 head_title: PACT
-subtitle: PhDs at Cornell Tech
+# subtitle: Welcome to the new PACT website!
 weight: 1
 ---
 
-FINALLY GOT THE BUILD AND DEPLOYMENT WORKING!!
+## Welcome to the new PACT website!
+
+This website was created using an open-source Tufte-inspired Jekyll theme.{% sidenote 'github' "[Github](https://github.com/ab/jekyll-theme-tufte)" %}
+
 
 <!-- 
+* [*tufte-css-jekyll*](https://github.com/sdruskat/tufte-css-jekyll), a classic-style Jekyll theme {% sidenote 'origins' "This theme started out as a gem repackaging of *tufte-css-jekyll*, but then I decided to clean up the layout" %}
+
+
+
+
+
 [*jekyll-theme-tufte*](https://github.com/ab/jekyll-theme-tufte) is a Jekyll
 theme that implements the design ideas of Edward Tufte.
 It is enabled by [*tufte-css*](https://github.com/edwardtufte/tufte-css), a
