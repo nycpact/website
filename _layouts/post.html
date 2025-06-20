@@ -10,7 +10,19 @@ layout: default
 {{ page.date | date: "%B %-d, %Y" }}
 </p>
 
+{% if page.notes %}
+<iframe src="{{ page.notes }}" style="width: 55%; height: 50vh; border: 0" allowfullscreen>
+</iframe>
+<style>
+@media screen and (max-width: 760px) {
+  iframe {
+    width: 100% !important;
+  }
+}
+</style>
+{% else %}
 {{ content }}
+{% endif %}
 
 <section>
   <div style="clear: both"></div>

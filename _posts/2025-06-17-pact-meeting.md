@@ -1,13 +1,14 @@
 ---
 title: PACT Meeting
 layout: post
+notes: https://docs.google.com/document/d/1J6zP9emyDiEKVWxB9-Heb5WOwwvETMiY5Q2Eb3eZBwY/preview
 ---
 
-## **Meeting Agenda**
+<!-- ## **Meeting Agenda**
 
-*We’ll put agenda items and notes in here and then copy it to create a public version of the notes for the PACT site.*
+*We’ll put agenda items and notes in here and then copy it to create a public version of the notes for the PACT site.* -->
 
-*Format*
+<!-- *Format*
 
 * *Item (Speaker)*  
   * Note  
@@ -31,4 +32,4 @@ layout: post
     * ***TODO \[Sophie\]: Look into getting plants that don’t need too much light, and artificial lighting***  
   * Easy way to project things to the projector\!  
   * Cleanup  
-    * ***TODO \[Sophie\] Aim for next couple days send out info***
+    * ***TODO \[Sophie\] Aim for next couple days send out info*** -->
