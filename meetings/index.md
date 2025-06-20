@@ -1,5 +1,5 @@
 ---
 layout: meeting-notes
-title: Meetings
+title: Notes
 weight: 3
 ---
