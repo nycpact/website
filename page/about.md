@@ -8,13 +8,12 @@ weight: 2
 ## Who We Are?
 
 
-**President:** Dani Vilardell (CS) {% sidenote 'email' 'dv296[at]cornell[dot]edu' %}\\\\
+**President:** Dani Vilardell (CS) {% sidenote 'email' 'dv296[at]cornell[dot]edu' %}\\
 **Vice President:** Arka Bhattacharya (CS) {% sidenote 'email' 'ab2875[at]cornell[dot]edu' %}\\
 **Treasurers:**  Nathan Cho (ORIE) {% sidenote 'email' 'nc437[at]cornell[dot]edu' %} & Hal Triedman (CS) {% sidenote 'email' 'hjt[at]cornell[dot]edu' %}\\
-Strategic Officers: Jonathan Segal (IS) {% sidenote 'email' 'jis62[at]cornell[dot]edu' %} & Rishi Jha (CS) {% sidenote 'email' 'rdj58[at]cornell[dot]edu' %} & Ritik Batra (IS) {% sidenote 'email' 'rb887[at]cornell[dot]edu' %}\\
-
-**Social Delegators:** Teresa Parreira (IS) {% sidenote 'email' 'mb2554[at]cornell[dot]edu' %} & Erica Chiang (CS) {% sidenote 'email' 'esc99[at]cornell[dot]edu' %}\
-**Wellbeing Officers:** Thalia Viranda (IS) {% sidenote 'email' 'tv74[at]cornell[dot]edu' %} & Sophie Greenwood (CS) {% sidenote 'email' 'sg2387[at]cornell[dot]edu' %} & Evan Dong (CS) {% sidenote 'email' 'zed5[at]cornell[dot]edu' %}\\\
+Strategic Officers: Jonathan Segal (IS) {% sidenote 'email' 'jis62[at]cornell[dot]edu' %} & Rishav Jha (CS) {% sidenote 'email' 'rdj58[at]cornell[dot]edu' %} & Ritik Batra (IS) {% sidenote 'email' 'rb887[at]cornell[dot]edu' %}\\
+**Social Dictators:** Teresa Parreira (IS) {% sidenote 'email' 'mb2554[at]cornell[dot]edu' %} & Erica Chiang (CS) {% sidenote 'email' 'esc99[at]cornell[dot]edu' %}\\
+**Wellbeing Officers:** Sophie Greenwood (CS) {% sidenote 'email' 'sg2387[at]cornell[dot]edu' %} & Evan Dong (CS) {% sidenote 'email' 'zed5[at]cornell[dot]edu' %}\\
 **House Czar:** Andrew Campbell (ECE) {% sidenote 'email' 'ac2548[at]cornell[dot]edu' %}\\
 **Snack Czars:** Nathan Cho (ORIE) {% sidenote 'email' 'nc437[at]cornell[dot]edu' %} & Tauhid Tanjim (IS) {% sidenote 'email' 'tt485[at]cornell[dot]edu' %}
 
