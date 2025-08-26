@@ -9,6 +9,17 @@ weight: 1
 
 ## Welcome to the new PACT website!
 
+We're still working on building this website, so if you have any questions, please reach out to any of the PACT board members! In the meantime, please make sure to join the following communication channels:
+
+- [Cornell Tech Slack](https://cornelltech.slack.com/archives/C0909RWEVT7)
+    - If you're not in the workspace or your invite has expired, add your name to [this spreadsheet](https://docs.google.com/spreadsheets/d/1WGZrGco4lyC1JxKtQzsNkq-FWjo0tKvuSHeIbRFMUJM/edit?usp=sharing)
+- [Discord Server (Student Only)](https://discord.gg/XP4K9YX7)
+- [Cornell Tech WhatsApp Group](https://chat.whatsapp.com/E5RDm6T1JZVJNxglRYq9Mp)
+
+🙏 Please volunteer to host social hour (aka choose and order snacks) [HERE](https://docs.google.com/spreadsheets/d/1WBvHidMuiVLPuMKQ0HgSYqg_zxtj3sl3cwT7P89HATQ/edit?gid=0#gid=0)! Community participation is crucial to keep social hour running, and we'd greatly appreciate any student, faculty, or staff volunteers. Thank you!!
+
+---
+
 This website was created using an open-source Tufte-inspired Jekyll theme.{% sidenote 'github' "[Github](https://github.com/ab/jekyll-theme-tufte)" %}
 
 
