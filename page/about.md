@@ -7,7 +7,9 @@ weight: 2
 
 ## Who We Are?
 
-President: Dani Vilardell (CS) {% sidenote 'email' 'dv296[at]cornell[dot]edu' %}
+
+President: Dani Vilardell (CS) {% sidenote 'email' 'dv296[at]cornell[dot]edu' %}\\
+Vice President: Arka Bhattacharya (CS) {% sidenote 'email' 'ab2875[at]cornell[dot]edu' %}
 
 Treasurers:  Nathan Cho (ORIE) {% sidenote 'email' 'nc437[at]cornell[dot]edu' %} & Hal Triedman (CS) {% sidenote 'email' 'hjt[at]cornell[dot]edu' %}
 
