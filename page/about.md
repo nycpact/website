@@ -8,12 +8,12 @@ weight: 2
 ## Who We Are?
 
 
-**President:** Dani Vilardell (CS) {% sidenote 'email' 'dv296[at]cornell[dot]edu' %}<br style="margin-bottom: 0.5rem;">\\
-**Vice President:** Arka Bhattacharya (CS) {% sidenote 'email' 'ab2875[at]cornell[dot]edu' %} & Kevin<br style="margin-bottom: 0.5rem;">\\
-**Treasurers:**  Nathan Cho (ORIE) {% sidenote 'email' 'nc437[at]cornell[dot]edu' %} & Hal Triedman (CS) {% sidenote 'email' 'hjt[at]cornell[dot]edu' %}<br style="margin-bottom: 0.5rem;">\\
-**Strategic Officers:** Jonathan Segal (IS) {% sidenote 'email' 'jis62[at]cornell[dot]edu' %} & Rishi Jha (CS) {% sidenote 'email' 'rdj58[at]cornell[dot]edu' %} & Ritik Batra (IS) {% sidenote 'email' 'rb887[at]cornell[dot]edu' %}<br style="margin-bottom: 0.5rem;">\\
-**Social Dictators:** Teresa Parreira (IS) {% sidenote 'email' 'mb2554[at]cornell[dot]edu' %} & Erica Chiang (CS) {% sidenote 'email' 'esc99[at]cornell[dot]edu' %}<br style="margin-bottom: 0.5rem;">\\
-**Wellbeing Officers:** Sophie Greenwood (CS) {% sidenote 'email' 'sg2387[at]cornell[dot]edu' %} & Evan Dong (CS) {% sidenote 'email' 'zed5[at]cornell[dot]edu' %}\\
+**President:** Dani Vilardell (CS) {% sidenote 'email' 'dv296[at]cornell[dot]edu' %}<br style="margin-bottom: 0.1rem;">\\
+**Vice President:** Arka Bhattacharya (CS) {% sidenote 'email' 'ab2875[at]cornell[dot]edu' %} & Kevin<br style="margin-bottom: 0.15rem;">\\
+**Treasurers:**  Nathan Cho (ORIE) {% sidenote 'email' 'nc437[at]cornell[dot]edu' %} & Hal Triedman (CS) {% sidenote 'email' 'hjt[at]cornell[dot]edu' %}<br style="margin-bottom: 0.2rem;">\\
+**Strategic Officers:** Jonathan Segal (IS) {% sidenote 'email' 'jis62[at]cornell[dot]edu' %} & Rishi Jha (CS) {% sidenote 'email' 'rdj58[at]cornell[dot]edu' %} & Ritik Batra (IS) {% sidenote 'email' 'rb887[at]cornell[dot]edu' %}<br style="margin-bottom: 0.25rem;">\\
+**Social Dictators:** Teresa Parreira (IS) {% sidenote 'email' 'mb2554[at]cornell[dot]edu' %} & Erica Chiang (CS) {% sidenote 'email' 'esc99[at]cornell[dot]edu' %}<br style="margin-bottom: 0.3rem;">\\
+**Wellbeing Officers:** Sophie Greenwood (CS) {% sidenote 'email' 'sg2387[at]cornell[dot]edu' %} & Evan Dong (CS) {% sidenote 'email' 'zed5[at]cornell[dot]edu' %}<br style="margin-bottom: 0.35rem;">\\
 **House Czar:** Andrew Campbell (ECE) {% sidenote 'email' 'ac2548[at]cornell[dot]edu' %}\\
 **Snack Czars:** Nathan Cho (ORIE) {% sidenote 'email' 'nc437[at]cornell[dot]edu' %} & Tauhid Tanjim (IS) {% sidenote 'email' 'tt485[at]cornell[dot]edu' %}
 
