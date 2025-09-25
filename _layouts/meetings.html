@@ -8,11 +8,12 @@ sidebar: meeting-list
   {% include functions.html func='log' level='debug' msg='Get datetimes value' %}
 
   {% assign filter = '%Y' %}
-  {% include functions.html func='get_datetimes' %}
+  {% assign meetings_posts = site.posts | where_exp: 'p', "p.categories contains 'meetings'" %}
+  {% include functions.html func='get_datetimes' collection=meetings_posts %}
   {% assign datetimes = return %}
 
   {% assign keys = datetimes | reverse %}
   {% assign field = 'date' %}
-  {% include views/segments.html %}
+  {% include views/segments.html collection=meetings_posts %}
 
 {%- endif -%}

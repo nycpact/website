@@ -4,8 +4,13 @@
 
 {% assign split_mark = '<|>' %}
 
+{% assign posts = site.posts %}
+{% if include.params.collection %}
+  {% assign posts = include.params.collection %}
+{% endif %}
+
 {% assign dates = '' %}
-{% for post in site.posts %}
+{% for post in posts %}
   {% assign name = post.date | date: filter %}
   {% assign dates = dates | append: split_mark  | append: name %}
 {% endfor %}

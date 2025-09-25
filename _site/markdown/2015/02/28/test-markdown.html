@@ -845,68 +845,15 @@ function googleTranslateElementInit() {
 </script>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <div class="framework">
-  <section class="main">
+        <h1>Test markdown</h1>
+<p class="subtitle">Each post also has a subtitle</p>
+<p class="byline">
 
-     <div class="post">
-  <section>
-
-
-
+February 28, 2015
+</p>
 
 
-
-
-
-
-<header class="post-header">
-  <h1 class="post-title p-name" itemprop="name headline">Test markdown</h1>
-  <h2 class="post-subtitle">Each post also has a subtitle</h2>
-
-  <div class="post-meta">
-    <time class="dt-published" datetime="2015-02-28T00:00:00-05:00" itemprop="datePublished"><i class="fa fa-calendar"></i> Feb 28, 2015
-    </time>
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 1 min</span>
-  </div>
-<div class="post-tags"><a class="post-tag" href="/tags.html#test">#test</a></div></header>
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-
-    <div class="post-content e-content" itemprop="articleBody">
-
-      <p>You can write regular <a href="https://markdowntutorial.com/">markdown</a> here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to <a href="http://markdowntutorial.com/">take 5 minutes to learn how to write in markdown</a> - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc.</p>
+<p>You can write regular <a href="https://markdowntutorial.com/">markdown</a> here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to <a href="http://markdowntutorial.com/">take 5 minutes to learn how to write in markdown</a> - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc.</p>
 
 <p><strong>Here is some bold text</strong></p>
 
@@ -1005,183 +952,12 @@ foo(3)
 <p>This single quote code <code class="language-plaintext highlighter-rouge">inet<img class="emoji" title=":email:" alt=":email:" raw="✉️" src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png" style="vertical-align: middle; display: inline; max-width: 1em; visibility: hidden;" onload="this.style.visibility='visible'" onerror="this.replaceWith(this.getAttribute('raw'))">message:to</code> will not be parsed to emoji icon<img class="emoji" title=":+1:" alt=":+1:" raw="👍" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png" style="vertical-align: middle; display: inline; max-width: 1em; visibility: hidden;" onload="this.style.visibility='visible'" onerror="this.replaceWith(this.getAttribute('raw'))">.</p>
 
 
-    </div>
-
-</article>
-<div class="post-nav">
-<a class="previous" href="/jekyll/2015/01/01/welcome-to-jekyll.html" title="Welcome to Jekyll!">
-          <div>Welcome to Jekyll!</div>
-        </a><a class="next" href="/markdown/2016/01/01/another-test-markdown.html" title="Another test markdown">
-          <div>Another test markdown</div>
-        </a>
-</div>
-<div class="post-related">
-      <div>Related Articles</div>
-      <ul>
-        <li class="">
-          <a class="post-link" href="/example/2017/12/15/table-example.html" title="Table example">
-            Table example<span class="post-badges">
-  <span class="post-badge badge-top">TOP</span>
-  <span class="post-badge badge-new">NEW</span>
-</span>
-</a>
-        </li>
-<li class="">
-          <a class="post-link" href="/markdown/2015/02/28/test-markdown.html" title="Test markdown">
-            Test markdown<span class="post-badges">
-  <span class="post-badge badge-top">TOP</span>
-  <span class="post-badge badge-new">NEW</span>
-</span>
-</a>
-        </li>
-<li class="">
-          <a class="post-link" href="/markdown/2016/01/01/another-test-markdown.html" title="Another test markdown">
-            Another test markdown<span class="post-badges">
-  <span class="post-badge badge-top">TOP</span>
-  <span class="post-badge badge-new">NEW</span>
-</span>
-</a>
-        </li>
-<li class="">
-          <a class="post-link" href="/misc/2016/05/19/super-short-article.html" title="Some articles are just so short that we have to make the footer stick">
-            Some articles are just so short that we have to make the...<span class="post-badges">
-  <span class="post-badge badge-top">TOP</span>
-  <span class="post-badge badge-new">NEW</span>
-</span>
-</a>
-        </li>
-</ul>
-    </div>
-<div class="post-comments"></div></section>
-</div>
 
 
-  </section>
-  <section class="sidebar" style="margin-left: 15px;">
-    <!-- Get sidebar items --><style type="text/css" media="screen">
-.post-menu ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-</style>
 
-<div class="post-menu">
-  <div class="post-menu-title">Contents</div>
-  <div class="post-menu-content"></div>
-</div>
 
-<script>
-  function generateContent() {
-    var menu = document.querySelector(".post-menu");
-    var menuContent =  menu.querySelector(".post-menu-content");
-    var headings = document.querySelector(".post-content").querySelectorAll("h2, h3, h4, h5, h6");
 
-    // Hide menu when no headings
-    if (headings.length === 0) {
-      return menu.style.display = "none";
-    }
 
-    // Generate post menu
-    var menuHTML = '';
-    for (var i = 0; i < headings.length; i++) {
-      var h = headings[i];
-      menuHTML += (
-        '<li class="h-' + h.tagName.toLowerCase() + '">'
-        + '<a href="#h-' + h.getAttribute('id') + '">' + h.textContent + '</a></li>');
-    }
-
-    menuContent.innerHTML = '<ul>' + menuHTML + '</ul>';
-
-    // The header element
-    var header = document.querySelector('header.site-header');
-
-    function doMenuCollapse(index, over_items) {
-      var items = menuContent.firstChild.children;
-
-      if (over_items == undefined) {
-        over_items = 20;
-      }
-
-      if (items.length < over_items) {
-        return;
-      }
-
-      var activeItem = items[index];
-      var beginItem = activeItem
-      var endItem = activeItem
-      var beginIndex = index;
-      var endIndex = index + 1;
-      while (beginIndex >= 0
-        && !items[beginIndex].classList.contains('h-h2')) {
-        beginIndex -= 1;
-      }
-      while (endIndex < items.length
-        && !items[endIndex].classList.contains('h-h2')) {
-        endIndex += 1;
-      }
-      for (var i = 0; i < beginIndex; i++) {
-        item = items[i]
-        if (!item.classList.contains('h-h2')) {
-          item.style.display = 'none';
-        }
-      }
-      for (var i = beginIndex + 1; i < endIndex; i++) {
-        item = items[i]
-        // if (!item.classList.contains('h-h2')) {
-          item.style.display = '';
-        // }
-      }
-      for (var i = endIndex; i < items.length; i++) {
-        item = items[i]
-        if (!item.classList.contains('h-h2')) {
-          item.style.display = 'none';
-        }
-      }
-    }
-
-    // Init menu collapsed
-    doMenuCollapse(-1);
-
-    // Active the menu item
-    window.addEventListener('scroll', function (event) {
-      var lastActive = menuContent.querySelector('.active');
-      var changed = true;
-      var activeIndex = -1;
-      for (var i = headings.length - 1; i >= 0; i--) {
-        var h = headings[i];
-        var headingRect = h.getBoundingClientRect();
-        var headerRect = header.getBoundingClientRect();
-        var headerTop = Math.floor(headerRect.top);
-        var headerHeight = Math.floor(headerRect.height);
-        var headerHeight = headerTop + headerHeight + 20;
-        if (headingRect.top <= headerHeight) {
-          var id = 'h-' + h.getAttribute('id');
-          var a = menuContent.querySelector('a[href="#' + id  + '"]');
-          var curActive = a.parentNode;
-          if (curActive) {
-            curActive.classList.add('active');
-            activeIndex = i;
-          }
-          if (lastActive == curActive) {
-            changed = false;
-          }
-          break;
-        }
-      }
-      if (changed) {
-        if (lastActive) {
-          lastActive.classList.remove('active');
-        }
-        doMenuCollapse(activeIndex);
-      }
-      event.preventDefault();
-    });
-  }
-  generateContent();
-</script>
-</section>
-</div>
 
       </div>
     </main><footer class="site-footer h-card">

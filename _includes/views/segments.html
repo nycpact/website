@@ -6,22 +6,32 @@
   {%- assign field = include.field -%}
 {%- endif -%}
 
+{%- assign posts = site.posts -%}
+{%- if include.collection -%}
+  {%- assign posts = include.collection -%}
+{%- endif -%}
+
 <div class="page-segments">
   <ul class="page-segments-list">
     {% for key in keys %}
-    <h2 id="{{ key }}" class="segment-name">{{ key }}</h2>
-      {% assign items = site.posts | where: field, key %}
-      {% for item in items %}
-        {% if item != nil %}
-          {%- assign post_item_class = "" -%}
-          {%- if item.top -%}
-            {%- assign post_item_class = "top-post" -%}
-          {%- endif -%}
-          <li class="{{ post_item_class }}">
-            {%- include views/post-item.html -%}
-          </li>
-        {% endif %}
-      {% endfor %}
+      {% assign items = posts | where: field, key %}
+      {% if items.size > 0 %}
+      <h2 id="{{ key }}" class="segment-name">{{ key }}</h2>
+        {% for item in items %}
+          {% if include.exclude_meetings and item.categories contains 'meetings' %}
+            {% continue %}
+          {% endif %}
+          {% if item != nil %}
+            {%- assign post_item_class = "" -%}
+            {%- if item.top -%}
+              {%- assign post_item_class = "top-post" -%}
+            {%- endif -%}
+            <li class="{{ post_item_class }}">
+              {%- include views/post-item.html -%}
+            </li>
+          {% endif %}
+        {% endfor %}
+      {% endif %}
     {% endfor %}
   </ul>
 </div>
