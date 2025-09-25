@@ -1,0 +1,44 @@
+{% assign avatar_size = include.size | default: 36 %}
+{% assign avatar_radius = include.radius | default: 9999 %}
+{% assign default_avatar = include.default | default: '/assets/images/avatar-placeholder.svg' %}
+
+<div class="officers">
+  {% for group in site.data.officers.groups %}
+    <div class="officer-group">
+      <h3 class="officer-role">{{ group.role }}</h3>
+      <ul class="officer-members">
+        {% for member in group.members %}
+          {% if member.avatar %}
+            {% assign avatar = "/assets/images/board/" | append: member.avatar | append: ".png" %}
+          {% else %}
+            {% assign avatar = default_avatar %}
+          {% endif %}
+          <li class="officer-member">
+            <img class="officer-avatar" src="{{ avatar }}" alt="{{ member.name }} avatar" width="{{ avatar_size }}" height="{{ avatar_size }}" loading="lazy"/>
+            <div class="officer-meta">
+              <span class="officer-name">{{ member.name }}</span>
+              {% if member.dept %}<span class="officer-dept">({{ member.dept }})</span>{% endif %}
+              {% if member.email %}
+                <a class="officer-email" href="mailto:{{ member.email }}">{{ member.email | replace: "@", "[at]" | replace: ".edu", "[dot]edu" }}</a>
+              {% endif %}
+            </div>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endfor %}
+</div>
+
+<style>
+.officers { display: grid; gap: 1.25rem; }
+.officer-group { padding: 0.5rem 0; }
+.officer-role { margin: 0 0 0.25rem 0; font-size: 1.1rem; }
+.officer-members { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.5rem; }
+.officer-member { display: flex; align-items: center; gap: 0.6rem; }
+.officer-avatar { border-radius: {{ avatar_radius }}px; object-fit: cover; background: #eee; }
+.officer-meta { display: flex; flex-wrap: wrap; gap: 0.35rem; align-items: baseline; }
+.officer-name { font-weight: 600; }
+.officer-dept { color: #666; }
+.officer-email { color: inherit; text-decoration: underline; }
+</style>
+
