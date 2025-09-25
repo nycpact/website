@@ -49,7 +49,6 @@ description: Main homepage for PACT
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -124,11 +123,11 @@ header_transparent: false
 
 # You can choose a brand color
 # Default brand colors as below:
-# orangered: #ff5100
+# carnelian: #ff5100
 # greatgold: #f2cb05
 # greenblue: #389092
 #
-# brand_color: orangered
+# brand_color: carnelian
 #
 # Custom color as below:
 # brand_color: "#1a8e42"
