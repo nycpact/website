@@ -1,4 +1,4 @@
-{% assign avatar_size = include.size | default: 36 %}
+{% assign avatar_size = include.size | default: 75 %}
 {% assign avatar_radius = include.radius | default: 9999 %}
 {% assign default_avatar = include.default | default: '/assets/images/avatar-placeholder.svg' %}
 
@@ -30,15 +30,23 @@
 </div>
 
 <style>
-.officers { display: grid; gap: 1.25rem; }
+.officers {
+  display: grid;
+  gap: 1.25rem;
+  grid-template-columns: repeat(2, 1fr);
+}
+@media (max-width: 700px) {
+  .officers {
+    grid-template-columns: 1fr;
+  }
+}
 .officer-group { padding: 0.5rem 0; }
 .officer-role { margin: 0 0 0.25rem 0; font-size: 1.1rem; }
 .officer-members { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.5rem; }
-.officer-member { display: flex; align-items: center; gap: 0.6rem; }
-.officer-avatar { border-radius: {{ avatar_radius }}px; object-fit: cover; background: #eee; }
+.officer-member { display: flex; align-items: center; gap: 0.8rem; }
+.officer-avatar { border-radius: {{ avatar_radius }}px; object-fit: cover; background: #eee; width: {{ avatar_size }}px; height: {{ avatar_size }}px; }
 .officer-meta { display: flex; flex-wrap: wrap; gap: 0.35rem; align-items: baseline; }
 .officer-name { font-weight: 600; }
 .officer-dept { color: #666; }
 .officer-email { color: inherit; text-decoration: underline; }
 </style>
-
