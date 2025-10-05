@@ -752,12 +752,13 @@ html[data-scroll-status=down] .framework .sidebar {
   display: block;
   position: relative;
   height: 640px;
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: #000;
   transition: height 0.2s;
 }
 .page-banner .page-banner-img {
   position: absolute;
   width: 100%;
+  opacity: 0.3;
   height: 100%;
   overflow: hidden;
 }
@@ -983,9 +984,6 @@ html[data-theme=dark] .site-footer {
 }
 html[data-theme=dark] .left-vsplit:before {
   background-color: #505050;
-}
-html[data-theme=dark] .page-banner .page-banner-img > *:first-child {
-  opacity: 0.718;
 }
 html[data-theme=dark] .pagination .post-link {
   color: #bbb;

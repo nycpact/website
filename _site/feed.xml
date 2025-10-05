@@ -1,349 +1,499 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-10-04T17:12:40-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">PhDs at Cornell Tech</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>PhDs at Cornell Tech</name></author><entry><title type="html">Fall 2025</title><link href="http://localhost:4000/meetings/2025/08/26/pact-meeting.html" rel="alternate" type="text/html" title="Fall 2025" /><published>2025-08-26T00:00:00-07:00</published><updated>2025-08-26T00:00:00-07:00</updated><id>http://localhost:4000/meetings/2025/08/26/pact-meeting</id><content type="html" xml:base="http://localhost:4000/meetings/2025/08/26/pact-meeting.html"><![CDATA[]]></content><author><name>PhDs at Cornell Tech</name></author><category term="meetings" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">July 15th, Summer 2025</title><link href="http://localhost:4000/meetings/2025/07/15/pact-meeting.html" rel="alternate" type="text/html" title="July 15th, Summer 2025" /><published>2025-07-15T00:00:00-07:00</published><updated>2025-07-15T00:00:00-07:00</updated><id>http://localhost:4000/meetings/2025/07/15/pact-meeting</id><content type="html" xml:base="http://localhost:4000/meetings/2025/07/15/pact-meeting.html"><![CDATA[]]></content><author><name>PhDs at Cornell Tech</name></author><category term="meetings" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">July 1st, Summer 2025</title><link href="http://localhost:4000/meetings/2025/07/01/pact-meeting.html" rel="alternate" type="text/html" title="July 1st, Summer 2025" /><published>2025-07-01T00:00:00-07:00</published><updated>2025-07-01T00:00:00-07:00</updated><id>http://localhost:4000/meetings/2025/07/01/pact-meeting</id><content type="html" xml:base="http://localhost:4000/meetings/2025/07/01/pact-meeting.html"><![CDATA[]]></content><author><name>PhDs at Cornell Tech</name></author><category term="meetings" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">June 17th, Summer 2025</title><link href="http://localhost:4000/meetings/2025/06/17/pact-meeting.html" rel="alternate" type="text/html" title="June 17th, Summer 2025" /><published>2025-06-17T00:00:00-07:00</published><updated>2025-06-17T00:00:00-07:00</updated><id>http://localhost:4000/meetings/2025/06/17/pact-meeting</id><content type="html" xml:base="http://localhost:4000/meetings/2025/06/17/pact-meeting.html"><![CDATA[]]></content><author><name>PhDs at Cornell Tech</name></author><category term="meetings" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">An exhibit of Markdown</title><link href="http://localhost:4000/markdown/2018/12/05/an-exhibit-of-markdown.html" rel="alternate" type="text/html" title="An exhibit of Markdown" /><published>2018-12-05T00:00:00-08:00</published><updated>2018-12-05T00:00:00-08:00</updated><id>http://localhost:4000/markdown/2018/12/05/an-exhibit-of-markdown</id><content type="html" xml:base="http://localhost:4000/markdown/2018/12/05/an-exhibit-of-markdown.html"><![CDATA[This note demonstrates some of what [Markdown][1] is capable of doing.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-10-04T17:29:09-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">PhDs at Cornell Tech</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>PhDs at Cornell Tech</name></author><entry><title type="html">Fall 2025</title><link href="http://localhost:4000/meetings/2025/08/26/pact-meeting.html" rel="alternate" type="text/html" title="Fall 2025" /><published>2025-08-26T00:00:00-07:00</published><updated>2025-08-26T00:00:00-07:00</updated><id>http://localhost:4000/meetings/2025/08/26/pact-meeting</id><content type="html" xml:base="http://localhost:4000/meetings/2025/08/26/pact-meeting.html"><![CDATA[]]></content><author><name>PhDs at Cornell Tech</name></author><category term="meetings" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">July 15th, Summer 2025</title><link href="http://localhost:4000/meetings/2025/07/15/pact-meeting.html" rel="alternate" type="text/html" title="July 15th, Summer 2025" /><published>2025-07-15T00:00:00-07:00</published><updated>2025-07-15T00:00:00-07:00</updated><id>http://localhost:4000/meetings/2025/07/15/pact-meeting</id><content type="html" xml:base="http://localhost:4000/meetings/2025/07/15/pact-meeting.html"><![CDATA[]]></content><author><name>PhDs at Cornell Tech</name></author><category term="meetings" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">July 1st, Summer 2025</title><link href="http://localhost:4000/meetings/2025/07/01/pact-meeting.html" rel="alternate" type="text/html" title="July 1st, Summer 2025" /><published>2025-07-01T00:00:00-07:00</published><updated>2025-07-01T00:00:00-07:00</updated><id>http://localhost:4000/meetings/2025/07/01/pact-meeting</id><content type="html" xml:base="http://localhost:4000/meetings/2025/07/01/pact-meeting.html"><![CDATA[]]></content><author><name>PhDs at Cornell Tech</name></author><category term="meetings" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">June 17th, Summer 2025</title><link href="http://localhost:4000/meetings/2025/06/17/pact-meeting.html" rel="alternate" type="text/html" title="June 17th, Summer 2025" /><published>2025-06-17T00:00:00-07:00</published><updated>2025-06-17T00:00:00-07:00</updated><id>http://localhost:4000/meetings/2025/06/17/pact-meeting</id><content type="html" xml:base="http://localhost:4000/meetings/2025/06/17/pact-meeting.html"><![CDATA[]]></content><author><name>PhDs at Cornell Tech</name></author><category term="meetings" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">An exhibit of Markdown</title><link href="http://localhost:4000/markdown/2018/12/05/an-exhibit-of-markdown.html" rel="alternate" type="text/html" title="An exhibit of Markdown" /><published>2018-12-05T00:00:00-08:00</published><updated>2018-12-05T00:00:00-08:00</updated><id>http://localhost:4000/markdown/2018/12/05/an-exhibit-of-markdown</id><content type="html" xml:base="http://localhost:4000/markdown/2018/12/05/an-exhibit-of-markdown.html"><![CDATA[<p>This note demonstrates some of what <a href="https://daringfireball.net/projects/markdown/">Markdown</a> is capable of doing.</p>
 
-## An exhibit of Markdown
+<h2 id="an-exhibit-of-markdown">An exhibit of Markdown</h2>
 
+<p><em>Note: Feel free to play with this page. Unlike regular notes, this doesn’t automatically save itself.</em></p>
 
+<h2 id="basic-formatting">Basic formatting</h2>
 
-*Note: Feel free to play with this page. Unlike regular notes, this doesn't automatically save itself.*
+<p>Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.</p>
 
-## Basic formatting
+<p>Paragraphs must be separated by a blank line. Basic formatting of <em>italics</em> and <strong>bold</strong> is supported. This <em>can be <strong>nested</strong> like</em> so.</p>
 
-Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.
+<h2 id="lists">Lists</h2>
 
-Paragraphs must be separated by a blank line. Basic formatting of *italics* and **bold** is supported. This *can be **nested** like* so.
+<h3 id="ordered-list">Ordered list</h3>
 
-## Lists
+<ol>
+  <li>Item 1</li>
+  <li>A second item</li>
+  <li>Number 3</li>
+  <li>Ⅳ</li>
+</ol>
 
-### Ordered list
+<p><em>Note: the fourth item uses the Unicode character for <a href="https://www.fileformat.info/info/unicode/char/2163/index.htm">Roman numeral four</a>.</em></p>
 
-1. Item 1
-2. A second item
-3. Number 3
-4. Ⅳ
+<h3 id="unordered-list">Unordered list</h3>
 
-*Note: the fourth item uses the Unicode character for [Roman numeral four][2].*
+<ul>
+  <li>An item</li>
+  <li>Another item</li>
+  <li>Yet another item</li>
+  <li>And there’s more…</li>
+</ul>
 
-### Unordered list
+<h2 id="paragraph-modifiers">Paragraph modifiers</h2>
 
-* An item
-* Another item
-* Yet another item
-* And there's more...
+<h3 id="code-block">Code block</h3>
 
-## Paragraph modifiers
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Code blocks are very useful for developers and other people who look at code or other things that are written in plain text. As you can see, it uses a fixed-width font.
+</code></pre></div></div>
 
-### Code block
+<p>You can also make <code class="language-plaintext highlighter-rouge">inline code</code> to add code into other things.</p>
 
-    Code blocks are very useful for developers and other people who look at code or other things that are written in plain text. As you can see, it uses a fixed-width font.
+<h3 id="quote">Quote</h3>
 
-You can also make `inline code` to add code into other things.
+<blockquote>
+  <p>Here is a quote. What this is should be self explanatory. Quotes are automatically indented when they are used.</p>
+</blockquote>
 
-### Quote
+<h2 id="headings">Headings</h2>
 
-> Here is a quote. What this is should be self explanatory. Quotes are automatically indented when they are used.
+<p>There are six levels of headings. They correspond with the six levels of HTML headings. You’ve probably noticed them already in the page. Each level down uses one more hash character.</p>
 
-## Headings
+<h3 id="headings-can-also-contain-formatting">Headings <em>can</em> also contain <strong>formatting</strong></h3>
 
-There are six levels of headings. They correspond with the six levels of HTML headings. You've probably noticed them already in the page. Each level down uses one more hash character.
+<h3 id="they-can-even-contain-inline-code">They can even contain <code class="language-plaintext highlighter-rouge">inline code</code></h3>
 
-### Headings *can* also contain **formatting**
+<p>Of course, demonstrating what headings look like messes up the structure of the page.</p>
 
-### They can even contain `inline code`
+<p>I don’t recommend using more than three or four levels of headings here, because, when you’re smallest heading isn’t too small, and you’re largest heading isn’t too big, and you want each size up to look noticeably larger and more important, there there are only so many sizes that you can use.</p>
 
-Of course, demonstrating what headings look like messes up the structure of the page.
+<h2 id="urls">URLs</h2>
 
-I don't recommend using more than three or four levels of headings here, because, when you're smallest heading isn't too small, and you're largest heading isn't too big, and you want each size up to look noticeably larger and more important, there there are only so many sizes that you can use.
+<p>URLs can be made in a handful of ways:</p>
 
-## URLs
+<ul>
+  <li>A named link to <a href="https://www.markitdown.net/">MarkItDown</a>. The easiest way to do these is to select what you want to make a link and hit <code class="language-plaintext highlighter-rouge">Ctrl+L</code>.</li>
+  <li>Another named link to <a href="https://www.markitdown.net/">MarkItDown</a></li>
+  <li>Sometimes you just want a URL like <a href="https://www.markitdown.net/">https://www.markitdown.net/</a>.</li>
+</ul>
 
-URLs can be made in a handful of ways:
+<h2 id="horizontal-rule">Horizontal rule</h2>
 
-* A named link to [MarkItDown][3]. The easiest way to do these is to select what you want to make a link and hit `Ctrl+L`.
-* Another named link to [MarkItDown](https://www.markitdown.net/)
-* Sometimes you just want a URL like <https://www.markitdown.net/>.
+<p>A horizontal rule is a line that goes across the middle of the page.</p>
 
-## Horizontal rule
+<hr />
 
-A horizontal rule is a line that goes across the middle of the page.
+<p>It’s sometimes handy for breaking things up.</p>
 
----
+<h2 id="images">Images</h2>
 
-It's sometimes handy for breaking things up.
+<p>Markdown can also contain images. I’ll need to add something here sometime.</p>
 
-## Images
+<h2 id="finally">Finally</h2>
 
-Markdown can also contain images. I'll need to add something here sometime.
+<p>There’s actually a lot more to Markdown than this. See the official <a href="https://daringfireball.net/projects/markdown/basics">introduction</a> and <a href="https://daringfireball.net/projects/markdown/syntax">syntax</a> for more information. However, be aware that this is not using the official implementation, and this might work subtly differently in some of the little things.</p>]]></content><author><name>PhDs at Cornell Tech</name></author><category term="markdown" /><category term="example" /><category term="markdown" /><summary type="html"><![CDATA[This note demonstrates some of what Markdown is capable of doing.]]></summary></entry><entry><title type="html">Mathjax Test</title><link href="http://localhost:4000/markdown/2018/05/26/mathjax-test.html" rel="alternate" type="text/html" title="Mathjax Test" /><published>2018-05-26T00:00:00-07:00</published><updated>2018-05-26T00:00:00-07:00</updated><id>http://localhost:4000/markdown/2018/05/26/mathjax-test</id><content type="html" xml:base="http://localhost:4000/markdown/2018/05/26/mathjax-test.html"><![CDATA[<ul>
+  <li>A safe integer is an integer that
+    <ul>
+      <li>can be exactly represented as an IEEE-754 double precision number, and</li>
+      <li>whose IEEE-75 representation cannot be the result of rounding any other integer to fit the IEEE-754 representation</li>
+    </ul>
+  </li>
+  <li>For example, $ 2 ^ {53} - 1 $ is a safe integer,
+    <ul>
+      <li>it can be exactly represented</li>
+    </ul>
+  </li>
+</ul>]]></content><author><name>PhDs at Cornell Tech</name></author><category term="markdown" /><category term="test" /><summary type="html"><![CDATA[A safe integer is an integer that can be exactly represented as an IEEE-754 double precision number, and whose IEEE-75 representation cannot be the result of rounding any other integer to fit the IEEE-754 representation For example, $ 2 ^ {53} - 1 $ is a safe integer, it can be exactly represented]]></summary></entry><entry><title type="html">Video example</title><link href="http://localhost:4000/example/2017/12/18/video-example.html" rel="alternate" type="text/html" title="Video example" /><published>2017-12-18T00:00:00-08:00</published><updated>2017-12-18T00:00:00-08:00</updated><id>http://localhost:4000/example/2017/12/18/video-example</id><content type="html" xml:base="http://localhost:4000/example/2017/12/18/video-example.html"><![CDATA[<h2 id="canon-in-d-pachelbels-canon---cello--piano-best-wedding-version">Canon in D (Pachelbel’s Canon) - Cello &amp; Piano [BEST WEDDING VERSION]</h2>
+<p>Some of you know that we occasionally play for weddings. As you can imagine, we get a LOT of requests for Canon in D, and we discovered that there were no good arrangements available anywhere for piano and cello! Hard to believe given its popularity. So we decided to make our own! We tried to stick as closely to the original as possible (which was written for three violins and basso continuo), and we performed it <em>not</em> at a snail’s pace so the bride can actually make it down the aisle without putting everyone to sleep. 🙊(Yeah, we said it! Nobody likes a slow processional!) Also, the number one complaint about this piece from cellists is always how booooring it is to play because they literally have to play the same 8 bass notes over and over for the entire piece. Problem solved with this arrangement because the cello never has to play the bass! 🙌(The piano does, but we get lots of other fun stuff too so it’s ok!) So for all you musicians out there playing weddings, we hope you enjoy playing this arrangement a little more than the ones you were used to…You can get it from www.musicnotes.com. 😊Be sure to let us know in the comments if you do!</p>
 
-## Finally
-
-There's actually a lot more to Markdown than this. See the official [introduction][4] and [syntax][5] for more information. However, be aware that this is not using the official implementation, and this might work subtly differently in some of the little things.
-
-
-  [1]: https://daringfireball.net/projects/markdown/
-  [2]: https://www.fileformat.info/info/unicode/char/2163/index.htm
-  [3]: https://www.markitdown.net/
-  [4]: https://daringfireball.net/projects/markdown/basics
-  [5]: https://daringfireball.net/projects/markdown/syntax]]></content><author><name>PhDs at Cornell Tech</name></author><category term="markdown" /><category term="example" /><category term="markdown" /><summary type="html"><![CDATA[This note demonstrates some of what Markdown is capable of doing.]]></summary></entry><entry><title type="html">Mathjax Test</title><link href="http://localhost:4000/markdown/2018/05/26/mathjax-test.html" rel="alternate" type="text/html" title="Mathjax Test" /><published>2018-05-26T00:00:00-07:00</published><updated>2018-05-26T00:00:00-07:00</updated><id>http://localhost:4000/markdown/2018/05/26/mathjax-test</id><content type="html" xml:base="http://localhost:4000/markdown/2018/05/26/mathjax-test.html"><![CDATA[* A safe integer is an integer that
-  * can be exactly represented as an IEEE-754 double precision number, and
-  * whose IEEE-75 representation cannot be the result of rounding any other integer to fit the IEEE-754 representation
-* For example, $ 2 ^ {53} - 1 $ is a safe integer,
-  * it can be exactly represented]]></content><author><name>PhDs at Cornell Tech</name></author><category term="markdown" /><category term="test" /><summary type="html"><![CDATA[A safe integer is an integer that can be exactly represented as an IEEE-754 double precision number, and whose IEEE-75 representation cannot be the result of rounding any other integer to fit the IEEE-754 representation For example, $ 2 ^ {53} - 1 $ is a safe integer, it can be exactly represented]]></summary></entry><entry><title type="html">Video example</title><link href="http://localhost:4000/example/2017/12/18/video-example.html" rel="alternate" type="text/html" title="Video example" /><published>2017-12-18T00:00:00-08:00</published><updated>2017-12-18T00:00:00-08:00</updated><id>http://localhost:4000/example/2017/12/18/video-example</id><content type="html" xml:base="http://localhost:4000/example/2017/12/18/video-example.html"><![CDATA[## Canon in D (Pachelbel's Canon) - Cello & Piano [BEST WEDDING VERSION]
-Some of you know that we occasionally play for weddings. As you can imagine, we get a LOT of requests for Canon in D, and we discovered that there were no good arrangements available anywhere for piano and cello! Hard to believe given its popularity. So we decided to make our own! We tried to stick as closely to the original as possible (which was written for three violins and basso continuo), and we performed it *not* at a snail's pace so the bride can actually make it down the aisle without putting everyone to sleep. 🙊(Yeah, we said it! Nobody likes a slow processional!) Also, the number one complaint about this piece from cellists is always how booooring it is to play because they literally have to play the same 8 bass notes over and over for the entire piece. Problem solved with this arrangement because the cello never has to play the bass! 🙌(The piano does, but we get lots of other fun stuff too so it's ok!) So for all you musicians out there playing weddings, we hope you enjoy playing this arrangement a little more than the ones you were used to...You can get it from www.musicnotes.com. 😊Be sure to let us know in the comments if you do!
-
-![](//www.youtube.com/watch?v=Ptk_1Dc2iPY)
-
-## GUCCI HALLUCINATION / THE LINE ANIMATION / GUCCI
-BACKGROUND /
-
-Gucci share their creative vision through a series of surreal animated paintings by acclaimed artist Ignasi Monreal and The Line Animation studio. The animations make up part of a larger campaign shared via social media, above the line and print.
-
-APPROACH /
-
-Our aim was to ground and accentuate the outlandish scenarios with ambient sound design. Neither proclaiming to be positive or negative, the sound conveys a sense of the uncanny and leaves the audience with nothing but their own interpretations. their creative vision through a series of surreal animated paintings by acclaimed artist Ignasi Monreal and The Line Animation studio. The animations make up part of a larger campaign shared via social media, above the line and print.
-
-![](https://vimeo.com/263856289)
-
-
-## FINNEAS Demos How He Builds Songs For Billie Eilish
-Grammy Award-winning musician and producer FINNEAS sits down with Pitchfork and closely examines his creative process while working on some of the biggest hit songs of the past couple years. FINNEAS explores the sounds that brought upon 
-some of his greatest musical breakthroughs in songs such as bad guy, bury a friend, ocean eyes, when the party's over, I Lost a Friend, Used to This and much more.
-
-![][demo]  
-
-[demo]: https://dai.ly/x7tgcev
-
-## 2019 BMW Vision M NEXT Concept (HD)
-
-In future, drivers will be able to choose whether they wish to be driven or do the driving themselves. With the BMW Vision M NEXT, the BMW Group is revealing its take on how driving pleasure might look in future. It offers a foretaste of the BMW M brand’s electrified future by placing the focus squarely on the actively engaged driver. Intelligent technologies provide comprehensive yet carefully targeted assistance to turn them into the ultimate driver.
-
-![](https://www.dailymotion.com/video/x7bur2y)  
-
-## This is the poster image
-In modern browsers, adding a video to your page is as easy as adding an image. No longer do you need to deal with special plug-ins or require crazy markup, you can do it with a single element.
-![video](//www.html5rocks.com/en/tutorials/video/basics/devstories.webm)]]></content><author><name>PhDs at Cornell Tech</name></author><category term="example" /><category term="video" /><summary type="html"><![CDATA[Canon in D (Pachelbel’s Canon) - Cello &amp; Piano [BEST WEDDING VERSION] Some of you know that we occasionally play for weddings. As you can imagine, we get a LOT of requests for Canon in D, and we discovered that there were no good arrangements available anywhere for piano and cello! Hard to believe given its popularity. So we decided to make our own! We tried to stick as closely to the original as possible (which was written for three violins and basso continuo), and we performed it not at a snail’s pace so the bride can actually make it down the aisle without putting everyone to sleep. 🙊(Yeah, we said it! Nobody likes a slow processional!) Also, the number one complaint about this piece from cellists is always how booooring it is to play because they literally have to play the same 8 bass notes over and over for the entire piece. Problem solved with this arrangement because the cello never has to play the bass! 🙌(The piano does, but we get lots of other fun stuff too so it’s ok!) So for all you musicians out there playing weddings, we hope you enjoy playing this arrangement a little more than the ones you were used to…You can get it from www.musicnotes.com. 😊Be sure to let us know in the comments if you do!]]></summary></entry><entry><title type="html">Table example</title><link href="http://localhost:4000/example/2017/12/15/table-example.html" rel="alternate" type="text/html" title="Table example" /><published>2017-12-15T00:00:00-08:00</published><updated>2017-12-15T00:00:00-08:00</updated><id>http://localhost:4000/example/2017/12/15/table-example</id><content type="html" xml:base="http://localhost:4000/example/2017/12/15/table-example.html"><![CDATA[## Table example as below
-
-**For now, these extended features are provided:**
-
-* Cells spanning multiple columns
-* Cells spanning multiple rows
-* Cells text align separately
-* Table header not required
-* Grouped table header rows or data rows
-
-### Rowspan and Colspan
-^^ in a cell indicates it should be merged with the cell above.  
-This feature is contributed by [pmccloghrylaing](https://github.com/pmccloghrylaing).  
-
-| Stage | Direct Products | ATP Yields |
-| ----: | --------------: | ---------: |
-|Glycolysis | 2 ATP                   ||
-|^^         | 2 NADH      | 3--5 ATP   |
-|Pyruvaye oxidation | 2 NADH | 5 ATP   |
-|Citric acid cycle  | 2 ATP           ||
-|^^                 | 6 NADH | 15 ATP  |
-|^^                 | 2 FADH | 3 ATP   |
-| 30--32 ATP                         |||
-
-[ Net ATP yields per hexose]
-
-### Multiline
-A backslash at end to join cell contents with the following lines.  
-This feature is contributed by [Lucas-C](https://github.com/Lucas-C).
-
-|:     Easy Multiline     :|||
-|:------ |:------ |:-------- |
-| Apple  | Banana |  Orange  \
-| Apple  | Banana |  Orange  \
-| Apple  | Banana |  Orange
-| Apple  | Banana |  Orange  \
-| Apple  | Banana |  Orange  |
-| Apple  | Banana |  Orange  |
-
-
-### Headerless
-Table header can be eliminated.
-
-|--|--|--|--|--|--|--|--|
-|♜ |  |♝ |♛ |♚ |♝ |♞ |♜ |
-|  |♟ |♟ |♟ |  |♟ |♟ |♟ |
-|♟ |  |♞ |  |  |  |  |  |
-|  |♗ |  |  |♟ |  |  |  |
-|  |  |  |  |♙ |  |  |  |
-|  |  |  |  |  |♘ |  |  |
-|♙ |♙ |♙ |♙ |  |♙ |♙ |♙ |
-|♖ |♘ |♗ |♕ |♔ |  |  |♖ |
-
-
-```markdown
-|:     Fruits \|\| Food           :|||
+<p><img src="//www.youtube.com/watch?v=Ptk_1Dc2iPY" alt="" /></p>
+
+<h2 id="gucci-hallucination--the-line-animation--gucci">GUCCI HALLUCINATION / THE LINE ANIMATION / GUCCI</h2>
+<p>BACKGROUND /</p>
+
+<p>Gucci share their creative vision through a series of surreal animated paintings by acclaimed artist Ignasi Monreal and The Line Animation studio. The animations make up part of a larger campaign shared via social media, above the line and print.</p>
+
+<p>APPROACH /</p>
+
+<p>Our aim was to ground and accentuate the outlandish scenarios with ambient sound design. Neither proclaiming to be positive or negative, the sound conveys a sense of the uncanny and leaves the audience with nothing but their own interpretations. their creative vision through a series of surreal animated paintings by acclaimed artist Ignasi Monreal and The Line Animation studio. The animations make up part of a larger campaign shared via social media, above the line and print.</p>
+
+<p><img src="https://vimeo.com/263856289" alt="" /></p>
+
+<h2 id="finneas-demos-how-he-builds-songs-for-billie-eilish">FINNEAS Demos How He Builds Songs For Billie Eilish</h2>
+<p>Grammy Award-winning musician and producer FINNEAS sits down with Pitchfork and closely examines his creative process while working on some of the biggest hit songs of the past couple years. FINNEAS explores the sounds that brought upon 
+some of his greatest musical breakthroughs in songs such as bad guy, bury a friend, ocean eyes, when the party’s over, I Lost a Friend, Used to This and much more.</p>
+
+<p><img src="https://dai.ly/x7tgcev" alt="" /></p>
+
+<h2 id="2019-bmw-vision-m-next-concept-hd">2019 BMW Vision M NEXT Concept (HD)</h2>
+
+<p>In future, drivers will be able to choose whether they wish to be driven or do the driving themselves. With the BMW Vision M NEXT, the BMW Group is revealing its take on how driving pleasure might look in future. It offers a foretaste of the BMW M brand’s electrified future by placing the focus squarely on the actively engaged driver. Intelligent technologies provide comprehensive yet carefully targeted assistance to turn them into the ultimate driver.</p>
+
+<p><img src="https://www.dailymotion.com/video/x7bur2y" alt="" /></p>
+
+<h2 id="this-is-the-poster-image">This is the poster image</h2>
+<p>In modern browsers, adding a video to your page is as easy as adding an image. No longer do you need to deal with special plug-ins or require crazy markup, you can do it with a single element.
+<img src="//www.html5rocks.com/en/tutorials/video/basics/devstories.webm" alt="video" /></p>]]></content><author><name>PhDs at Cornell Tech</name></author><category term="example" /><category term="video" /><summary type="html"><![CDATA[Canon in D (Pachelbel’s Canon) - Cello &amp; Piano [BEST WEDDING VERSION] Some of you know that we occasionally play for weddings. As you can imagine, we get a LOT of requests for Canon in D, and we discovered that there were no good arrangements available anywhere for piano and cello! Hard to believe given its popularity. So we decided to make our own! We tried to stick as closely to the original as possible (which was written for three violins and basso continuo), and we performed it not at a snail’s pace so the bride can actually make it down the aisle without putting everyone to sleep. 🙊(Yeah, we said it! Nobody likes a slow processional!) Also, the number one complaint about this piece from cellists is always how booooring it is to play because they literally have to play the same 8 bass notes over and over for the entire piece. Problem solved with this arrangement because the cello never has to play the bass! 🙌(The piano does, but we get lots of other fun stuff too so it’s ok!) So for all you musicians out there playing weddings, we hope you enjoy playing this arrangement a little more than the ones you were used to…You can get it from www.musicnotes.com. 😊Be sure to let us know in the comments if you do!]]></summary></entry><entry><title type="html">Table example</title><link href="http://localhost:4000/example/2017/12/15/table-example.html" rel="alternate" type="text/html" title="Table example" /><published>2017-12-15T00:00:00-08:00</published><updated>2017-12-15T00:00:00-08:00</updated><id>http://localhost:4000/example/2017/12/15/table-example</id><content type="html" xml:base="http://localhost:4000/example/2017/12/15/table-example.html"><![CDATA[<h2 id="table-example-as-below">Table example as below</h2>
+
+<p><strong>For now, these extended features are provided:</strong></p>
+
+<ul>
+  <li>Cells spanning multiple columns</li>
+  <li>Cells spanning multiple rows</li>
+  <li>Cells text align separately</li>
+  <li>Table header not required</li>
+  <li>Grouped table header rows or data rows</li>
+</ul>
+
+<h3 id="rowspan-and-colspan">Rowspan and Colspan</h3>
+<p>^^ in a cell indicates it should be merged with the cell above.<br />
+This feature is contributed by <a href="https://github.com/pmccloghrylaing">pmccloghrylaing</a>.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: right">Stage</th>
+      <th style="text-align: right">Direct Products</th>
+      <th style="text-align: right">ATP Yields</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: right">Glycolysis</td>
+      <td style="text-align: right">2 ATP                   |</td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: right">^^</td>
+      <td style="text-align: right">2 NADH</td>
+      <td style="text-align: right">3–5 ATP</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Pyruvaye oxidation</td>
+      <td style="text-align: right">2 NADH</td>
+      <td style="text-align: right">5 ATP</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Citric acid cycle</td>
+      <td style="text-align: right">2 ATP           |</td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: right">^^</td>
+      <td style="text-align: right">6 NADH</td>
+      <td style="text-align: right">15 ATP</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">^^</td>
+      <td style="text-align: right">2 FADH</td>
+      <td style="text-align: right">3 ATP</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">30–32 ATP                         ||</td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<p>[ Net ATP yields per hexose]</p>
+
+<h3 id="multiline">Multiline</h3>
+<p>A backslash at end to join cell contents with the following lines.<br />
+This feature is contributed by <a href="https://github.com/Lucas-C">Lucas-C</a>.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">:     Easy Multiline     :||</th>
+      <th style="text-align: left"> </th>
+      <th style="text-align: left"> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Apple</td>
+      <td style="text-align: left">Banana</td>
+      <td style="text-align: left">Orange  \</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Apple</td>
+      <td style="text-align: left">Banana</td>
+      <td style="text-align: left">Orange  \</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Apple</td>
+      <td style="text-align: left">Banana</td>
+      <td style="text-align: left">Orange</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Apple</td>
+      <td style="text-align: left">Banana</td>
+      <td style="text-align: left">Orange  \</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Apple</td>
+      <td style="text-align: left">Banana</td>
+      <td style="text-align: left">Orange</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Apple</td>
+      <td style="text-align: left">Banana</td>
+      <td style="text-align: left">Orange</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="headerless">Headerless</h3>
+<p>Table header can be eliminated.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>♜</td>
+      <td> </td>
+      <td>♝</td>
+      <td>♛</td>
+      <td>♚</td>
+      <td>♝</td>
+      <td>♞</td>
+      <td>♜</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>♟</td>
+      <td>♟</td>
+      <td>♟</td>
+      <td> </td>
+      <td>♟</td>
+      <td>♟</td>
+      <td>♟</td>
+    </tr>
+    <tr>
+      <td>♟</td>
+      <td> </td>
+      <td>♞</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>♗</td>
+      <td> </td>
+      <td> </td>
+      <td>♟</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>♙</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>♘</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>♙</td>
+      <td>♙</td>
+      <td>♙</td>
+      <td>♙</td>
+      <td> </td>
+      <td>♙</td>
+      <td>♙</td>
+      <td>♙</td>
+    </tr>
+    <tr>
+      <td>♖</td>
+      <td>♘</td>
+      <td>♗</td>
+      <td>♕</td>
+      <td>♔</td>
+      <td> </td>
+      <td> </td>
+      <td>♖</td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>|:     Fruits <span class="se">\|\|</span> Food           :|||
 |:-------- |:-------- |:------------ |
-| Apple    |: Apple  :|    Apple     \
-| Banana   |  Banana  |    Banana    \
+| Apple    |: Apple  :|    Apple     <span class="err">\</span>
+| Banana   |  Banana  |    Banana    <span class="err">\</span>
 | Orange   |  Orange  |    Orange    |
 |:   Rowspan is 5   :||:  How's it? :|
 |^^   A. Peach       ||^^ 1. Fine    |
-|^^   B. Orange      ||^^ 2. Bad  $I = \int \rho R^{2} dV$     |
-|^^   C. Banana      ||   It's OK! ![example image][my-image]  |
-```
+|^^   B. Orange      ||^^ 2. Bad  $I = <span class="se">\i</span>nt <span class="se">\r</span>ho R^{2} dV$     |
+|^^   C. Banana      ||   It's OK! !<span class="p">[</span><span class="nv">example image</span><span class="p">][</span><span class="ss">my-image</span><span class="p">]</span>  |
+</code></pre></div></div>
 
-### Text Alignment
-Table cell can be set alignment separately.
+<h3 id="text-alignment">Text Alignment</h3>
+<p>Table cell can be set alignment separately.</p>
 
-| \:Fruits         ||  Food   :|
-|:-------- |:------ |:-------- |
-| Apple    | Banana |  Orange  |
-| Apple    | Banana |  Orange  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">\:Fruits         |</th>
+      <th style="text-align: left">Food   :</th>
+      <th style="text-align: left"> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Apple</td>
+      <td style="text-align: left">Banana</td>
+      <td style="text-align: left">Orange</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Apple</td>
+      <td style="text-align: left">Banana</td>
+      <td style="text-align: left">Orange</td>
+    </tr>
+  </tbody>
+</table>
 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left"> </th>
+      <th style="text-align: left">Fruits\::        |</th>
+      <th style="text-align: left"> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Apple</td>
+      <td style="text-align: left">Banana</td>
+      <td style="text-align: left">Orange</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Apple</td>
+      <td style="text-align: left">Banana</td>
+      <td style="text-align: left">Orange</td>
+    </tr>
+  </tbody>
+</table>
 
-|          | Fruits\::        ||
-|:-------- |:------ |:-------- |
-| Apple    | Banana |  Orange  |
-| Apple    | Banana |  Orange  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">: \:Fruits       :|</th>
+      <th style="text-align: left"> </th>
+      <th style="text-align: left">:       Food     :|</th>
+      <th style="text-align: left"> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Apple</td>
+      <td style="text-align: left">Banana</td>
+      <td style="text-align: left">Orange</td>
+      <td style="text-align: left">:   Strawberry    :</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Apple  &amp;  Banana |</td>
+      <td style="text-align: left">^^</td>
+      <td style="text-align: left">Peach        :|</td>
+      <td style="text-align: left"> </td>
+    </tr>
+  </tbody>
+</table>
 
+<table>
+  <tbody>
+    <tr>
+      <td>: \:Fruits       :|</td>
+      <td> </td>
+      <td>:       Food     :|</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Apple</td>
+      <td>Banana</td>
+      <td>Orange</td>
+      <td>:   Strawberry    :</td>
+    </tr>
+  </tbody>
+</table>
 
-|: \:Fruits       :||          |:       Food     :||
-|:-------- |:------ |:-------- |:-------- |:------ |
-| Apple    | Banana |  Orange  |:   Strawberry    :|
-| Apple  &  Banana || ^^       |    Peach        :||
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">:     Fruits || Food           :||</th>
+      <th style="text-align: left"> </th>
+      <th style="text-align: left"> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Apple</td>
+      <td style="text-align: left">: Apple  :</td>
+      <td style="text-align: left">Apple     \</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Banana</td>
+      <td style="text-align: left">Banana</td>
+      <td style="text-align: left">Banana    \</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Orange</td>
+      <td style="text-align: left">Orange</td>
+      <td style="text-align: left">Orange</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">:   Rowspan is 5   :|</td>
+      <td style="text-align: left">:  How’s it? :</td>
+      <td style="text-align: left"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">^^   A. Peach       |</td>
+      <td style="text-align: left">^^ 1. Fine</td>
+      <td style="text-align: left"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">^^   B. Orange      |</td>
+      <td style="text-align: left">^^ 2. Bad  $I = \int \rho R^{2} dV$</td>
+      <td style="text-align: left"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">^^   C. Banana      |</td>
+      <td style="text-align: left">It’s OK! ![example image](http://www.unexpected-vortices.com/sw/rippledoc/example-image.jpg "An exemplary image")</td>
+      <td style="text-align: left"> </td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>PhDs at Cornell Tech</name></author><category term="example" /><category term="table" /><summary type="html"><![CDATA[Table example as below]]></summary></entry><entry><title type="html">Mermaid example</title><link href="http://localhost:4000/example/2017/12/08/mermaid-example.html" rel="alternate" type="text/html" title="Mermaid example" /><published>2017-12-08T00:00:00-08:00</published><updated>2017-12-08T00:00:00-08:00</updated><id>http://localhost:4000/example/2017/12/08/mermaid-example</id><content type="html" xml:base="http://localhost:4000/example/2017/12/08/mermaid-example.html"><![CDATA[<h3 id="1-pie-chart">1. Pie chart</h3>
 
+<p><img class="mermaid" src="https://mermaid.ink/svg/eyJjb2RlIjoicGllIHRpdGxlIFBldHMgYWRvcHRlZCBieSB2b2x1bnRlZXJzXG5cIkRvZ3NcIiA6IDM4NlxuXCJDYXRzXCIgOiA4NVxuXCJSYXRzXCIgOiAzNSIsIm1lcm1haWQiOm51bGx9" /></p>
 
-|: \:Fruits       :||          |:       Food     :||
-| Apple    | Banana |  Orange  |:   Strawberry    :|
+<h3 id="2-sequence-diagram">2. sequence diagram</h3>
 
+<p><img class="mermaid" src="https://mermaid.ink/svg/eyJjb2RlIjoic2VxdWVuY2VEaWFncmFtXG5BbGljZSAtPj4gQm9iOiBIZWxsbyBCb2IsIGhvdyBhcmUgeW91P1xuQm9iLS0-PkpvaG46IEhvdyBhYm91dCB5b3UgSm9obj9cbkJvYi0teCBBbGljZTogSSBhbSBnb29kIHRoYW5rcyFcbkJvYi14IEpvaG46IEkgYW0gZ29vZCB0aGFua3MhXG5Ob3RlIHJpZ2h0IG9mIEpvaG46IEJvYiB0aGlua3MgYSBsb25nPGJyLz5sb25nIHRpbWUsIHNvIGxvbmc8YnIvPnRoYXQgdGhlIHRleHQgZG9lczxici8-bm90IGZpdCBvbiBhIHJvdy5cbiUlLVxuQm9iLS0-QWxpY2U6IENoZWNraW5nIHdpdGggSm9obi4uLlxuQWxpY2UtPkpvaG46IFllcy4uLiBKb2huLCBob3cgYXJlIHlvdT8iLCJtZXJtYWlkIjpudWxsfQ" /></p>
 
-|:     Fruits \|\| Food           :|||
-|:-------- |:-------- |:------------ |
-| Apple    |: Apple  :|    Apple     \
-| Banana   |  Banana  |    Banana    \
-| Orange   |  Orange  |    Orange    |
-|:   Rowspan is 5   :||:  How's it? :|
-|^^   A. Peach       ||^^ 1. Fine    |
-|^^   B. Orange      ||^^ 2. Bad  $I = \int \rho R^{2} dV$     |
-|^^   C. Banana      ||   It's OK! ![example image][my-image]  |
+<p><img class="mermaid" src="https://mermaid.ink/svg/eyJjb2RlIjoiZ3JhcGggVERcbkFbQ2hyaXN0bWFzXSAtLT58R2V0IG1vbmV5fCBCKEdvIHNob3BwaW5nKVxuQiAtLT4gQ3tMZXQgbWUgdGhpbmt9XG5DIC0tPnxPbmV8IERbTGFwdG9wXVxuQyAtLT58VHdvfCBFW2lQaG9uZV1cbkMgLS0-fFRocmVlfCBGW2ZhOmZhLWNhciBDYXJdIiwibWVybWFpZCI6bnVsbH0" /></p>
 
-[my-image]: http://www.unexpected-vortices.com/sw/rippledoc/example-image.jpg "An exemplary image"]]></content><author><name>PhDs at Cornell Tech</name></author><category term="example" /><category term="table" /><summary type="html"><![CDATA[Table example as below]]></summary></entry><entry><title type="html">Mermaid example</title><link href="http://localhost:4000/example/2017/12/08/mermaid-example.html" rel="alternate" type="text/html" title="Mermaid example" /><published>2017-12-08T00:00:00-08:00</published><updated>2017-12-08T00:00:00-08:00</updated><id>http://localhost:4000/example/2017/12/08/mermaid-example</id><content type="html" xml:base="http://localhost:4000/example/2017/12/08/mermaid-example.html"><![CDATA[### 1. Pie chart
+<h3 id="3-class-diagram">3. Class diagram</h3>
+<p><img class="mermaid" src="https://mermaid.ink/svg/eyJjb2RlIjoiY2xhc3NEaWFncmFtXG5BbmltYWwgPHwtLSBEdWNrXG5BbmltYWwgPHwtLSBGaXNoXG5BbmltYWwgPHwtLSBaZWJyYVxuQW5pbWFsIDogK2ludCBhZ2VcbkFuaW1hbCA6ICtTdHJpbmcgZ2VuZGVyXG5BbmltYWw6ICtpc01hbW1hbCgpXG5BbmltYWw6ICttYXRlKClcbmNsYXNzIER1Y2t7XG4rU3RyaW5nIGJlYWtDb2xvclxuK3N3aW0oKVxuK3F1YWNrKClcbn1cbmNsYXNzIEZpc2h7XG4taW50IHNpemVJbkZlZXRcbi1jYW5FYXQoKVxufVxuY2xhc3MgWmVicmF7XG4rYm9vbCBpc193aWxkXG4rcnVuKClcbn0iLCJtZXJtYWlkIjpudWxsfQ" /></p>
 
-```mermaid!
-pie title Pets adopted by volunteers
-  "Dogs" : 386
-  "Cats" : 85
-  "Rats" : 35
-```
+<h3 id="4-state-diagram">4. State diagram</h3>
+<p><img class="mermaid" src="https://mermaid.ink/svg/eyJjb2RlIjoic3RhdGVEaWFncmFtXG5bKl0gLS0-IFN0aWxsXG5TdGlsbCAtLT4gWypdXG4lJS1cblN0aWxsIC0tPiBNb3Zpbmdcbk1vdmluZyAtLT4gU3RpbGxcbk1vdmluZyAtLT4gQ3Jhc2hcbkNyYXNoIC0tPiBbKl0iLCJtZXJtYWlkIjpudWxsfQ" /></p>]]></content><author><name>PhDs at Cornell Tech</name></author><category term="example" /><category term="mermaid" /><summary type="html"><![CDATA[1. Pie chart]]></summary></entry><entry><title type="html">Plantuml example</title><link href="http://localhost:4000/example/2017/12/04/plantuml-example.html" rel="alternate" type="text/html" title="Plantuml example" /><published>2017-12-04T00:00:00-08:00</published><updated>2017-12-04T00:00:00-08:00</updated><id>http://localhost:4000/example/2017/12/04/plantuml-example</id><content type="html" xml:base="http://localhost:4000/example/2017/12/04/plantuml-example.html"><![CDATA[<h2 id="my-first-plantuml">My First PlantUML</h2>
 
-### 2. sequence diagram
+<h3 id="plantuml-block-1">PlantUML Block-1</h3>
+<p><img class="plantuml" src="http://www.plantuml.com/plantuml/svg/~h407374617274756d6c0a426f62202d3e20416c696365203a2068656c6c6f0a40656e64756d6c" /></p>
 
-@startmermaid
-sequenceDiagram
-  Alice ->> Bob: Hello Bob, how are you?
-  Bob-->>John: How about you John?
-  Bob--x Alice: I am good thanks!
-  Bob-x John: I am good thanks!
-  Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
-  
-  Bob-->Alice: Checking with John...
-  Alice->John: Yes... John, how are you?
-@endmermaid
+<h3 id="plantuml-block-2">PlantUML Block-2</h3>
+<p><img class="plantuml" src="http://www.plantuml.com/plantuml/svg/~h407374617274756d6c0a426f62202d3e20416c696365203a2068656c6c6f20776f726c640a40656e64756d6c" /></p>
 
-```mermaid!
-graph TD
-A[Christmas] -->|Get money| B(Go shopping)
-  B --> C{Let me think}
-  C -->|One| D[Laptop]
-  C -->|Two| E[iPhone]
-  C -->|Three| F[fa:fa-car Car]
-```
+<h3 id="plantuml-block-3">PlantUML Block-3</h3>
+<p><img class="plantuml" src="http://www.plantuml.com/plantuml/svg/~h407374617274756d6c0a282a29202d2d3e2022496e697469616c697a6174696f6e220a0a69662022536f6d65205465737422207468656e0a20202d2d3e5b747275655d2022536f6d65204163746976697479220a20202d2d3e2022416e6f74686572206163746976697479220a20202d72696768742d3e20282a290a656c73650a20202d3e5b66616c73655d2022536f6d657468696e6720656c7365220a20202d2d3e5b456e64696e672070726f636573735d20282a290a656e6469660a40656e64756d6c" /></p>
 
-### 3. Class diagram
-```mermaid!
-classDiagram
-Animal <|-- Duck
-Animal <|-- Fish
-Animal <|-- Zebra
-Animal : +int age
-Animal : +String gender
-Animal: +isMammal()
-Animal: +mate()
-class Duck{
-  +String beakColor
-    +swim()
-    +quack()
-}
-class Fish{
-  -int sizeInFeet
-    -canEat()
-}
-class Zebra{
-  +bool is_wild
-    +run()
-}
-```
+<h3 id="plantuml-block-4">PlantUML Block-4</h3>
 
-### 4. State diagram
-```mermaid!
-stateDiagram
-[*] --> Still
-Still --> [*]
-
-Still --> Moving
-Moving --> Still
-Moving --> Crash
-Crash --> [*]
-```]]></content><author><name>PhDs at Cornell Tech</name></author><category term="example" /><category term="mermaid" /><summary type="html"><![CDATA[1. Pie chart]]></summary></entry><entry><title type="html">Plantuml example</title><link href="http://localhost:4000/example/2017/12/04/plantuml-example.html" rel="alternate" type="text/html" title="Plantuml example" /><published>2017-12-04T00:00:00-08:00</published><updated>2017-12-04T00:00:00-08:00</updated><id>http://localhost:4000/example/2017/12/04/plantuml-example</id><content type="html" xml:base="http://localhost:4000/example/2017/12/04/plantuml-example.html"><![CDATA[## My First PlantUML
-
-### PlantUML Block-1
-@startuml
-Bob -> Alice : hello
-@enduml
-
-
-### PlantUML Block-2
-``` plantuml!
-Bob -> Alice : hello world
-```
-
-
-### PlantUML Block-3
-@startuml
-(*) --> "Initialization"
-
-if "Some Test" then
-  -->[true] "Some Activity"
-  --> "Another activity"
-  -right-> (*)
-else
-  ->[false] "Something else"
-  -->[Ending process] (*)
-endif
-@enduml
-
-
-### PlantUML Block-4
-
-@startuml
-skinparam handwritten true
-
-skinparam usecase {
-  BackgroundColor DarkSeaGreen
-  BorderColor DarkSlateGray
-
-  BackgroundColor<< Main >> YellowGreen
-  BorderColor<< Main >> YellowGreen
-
-  ArrowColor Olive
-  ActorBorderColor black
-  ActorFontName Courier
-
-  ActorBackgroundColor<< Human >> Gold
-}
-
-User << Human >>
-:Main Database: as MySql << Application >>
-(Start) << One Shot >>
-(Use the application) as (Use) << Main >>
-
-User -> (Start)
-User --> (Use)
-
-MySql --> (Use)
-
-@enduml]]></content><author><name>PhDs at Cornell Tech</name></author><category term="example" /><category term="plantuml" /><summary type="html"><![CDATA[My First PlantUML]]></summary></entry></feed>
+<p><img class="plantuml" src="http://www.plantuml.com/plantuml/svg/~h407374617274756d6c0a736b696e706172616d2068616e647772697474656e20747275650a0a736b696e706172616d2075736563617365207b0a20204261636b67726f756e64436f6c6f72204461726b536561477265656e0a2020426f72646572436f6c6f72204461726b536c617465477261790a0a20204261636b67726f756e64436f6c6f723c3c204d61696e203e3e2059656c6c6f77477265656e0a2020426f72646572436f6c6f723c3c204d61696e203e3e2059656c6c6f77477265656e0a0a20204172726f77436f6c6f72204f6c6976650a20204163746f72426f72646572436f6c6f7220626c61636b0a20204163746f72466f6e744e616d6520436f75726965720a0a20204163746f724261636b67726f756e64436f6c6f723c3c2048756d616e203e3e20476f6c640a7d0a0a55736572203c3c2048756d616e203e3e0a3a4d61696e2044617461626173653a206173204d7953716c203c3c204170706c69636174696f6e203e3e0a28537461727429203c3c204f6e652053686f74203e3e0a2855736520746865206170706c69636174696f6e29206173202855736529203c3c204d61696e203e3e0a0a55736572202d3e20285374617274290a55736572202d2d3e2028557365290a0a4d7953716c202d2d3e2028557365290a0a40656e64756d6c" /></p>]]></content><author><name>PhDs at Cornell Tech</name></author><category term="example" /><category term="plantuml" /><summary type="html"><![CDATA[My First PlantUML]]></summary></entry></feed>

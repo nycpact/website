@@ -92,14 +92,6 @@ html[data-theme="dark"]  {
     background-color: #505050;
   }
 
-  .page-banner {
-    .page-banner-img {
-      & > *:first-child {
-        opacity: 0.718;
-      }
-    }
-  }
-
   .pagination {
     .post-link {
       color: #bbb;
