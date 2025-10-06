@@ -136,9 +136,9 @@ header_transparent: false
 header_pages:
   - index.html
   - about.html
+  - calendar.html
   - meetings.html
   - resources.html
-  - tags.html
 
 # Page default value
 # defaults:
