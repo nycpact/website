@@ -10,6 +10,12 @@ groups:
         dept: CS
         email: dv296@cornell.edu
 
+  - role: Vice President
+    members:
+      - name: Arkaprabha Bhattacharya
+        dept: CS
+        email: ab2956@cornell.edu
+
   - role: Treasurers
     members:
       - name: Nathan Cho
