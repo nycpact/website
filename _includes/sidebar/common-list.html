@@ -15,7 +15,11 @@
   <ul>
     <li>
       <a href="{{ '/index.html' | relative_url }}">
-        All<span>{{ keys.size }}</span>
+        {%- if url contains '/resources' -%}
+          All<span>{{ keys.size | minus: 1 }}</span>
+        {%- else -%}
+          All<span>{{ keys.size }}</span>
+        {%- endif -%}
       </a>
     </li>
     {% for key in  keys %}

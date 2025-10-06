@@ -15,12 +15,12 @@
   <ul class="page-segments-list">
     {% for key in keys %}
       {% assign items = posts | where: field, key %}
+      {% if include.exclude_meetings and items[0] and items[0].categories contains 'Meetings' %}
+        {% continue %}
+      {% endif %}
       {% if items.size > 0 %}
       <h2 id="{{ key }}" class="segment-name">{{ key }}</h2>
         {% for item in items %}
-          {% if include.exclude_meetings and item.categories contains 'meetings' %}
-            {% continue %}
-          {% endif %}
           {% if item != nil %}
             {%- assign post_item_class = "" -%}
             {%- if item.top -%}

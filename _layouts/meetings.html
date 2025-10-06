@@ -8,7 +8,7 @@ sidebar: meeting-list
   {% include functions.html func='log' level='debug' msg='Get datetimes value' %}
 
   {% assign filter = '%Y' %}
-  {% assign meetings_posts = site.posts | where_exp: 'p', "p.categories contains 'meetings'" %}
+  {% assign meetings_posts = site.posts | where_exp: 'p', "p.categories contains 'Meetings'" %}
   {% include functions.html func='get_datetimes' collection=meetings_posts %}
   {% assign datetimes = return %}
 

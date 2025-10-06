@@ -35,6 +35,7 @@
   </h2>
   <div class="post-meta">
     <span class="post-date"><i class="fa fa-calendar"></i> {{ post.date | date: date_format }}</span>
+    <span class="post-category left-vsplit"><i class="fa fa-folder-open"></i> {{post.categories}}</span>
     {%- if post.author -%}
     <span class="post-author left-vsplit"><i class="fa fa-pencil"></i> {{ post.author | escape }}</span>
     {%- endif -%}
@@ -52,7 +53,7 @@
   </div>
   <div class="post-tags">
     {%- for tag in post.tags -%}
-    <a class="post-tag" href="{{ '/tags.html ' | relative_url }}#{{tag}}">#{{tag}}</a>
+    <a class="post-tag">#{{tag}}</a>
     {%- endfor -%}
   </div>
 </li>

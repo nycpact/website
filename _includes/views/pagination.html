@@ -19,7 +19,7 @@
         | where_exp: "item", "item.top > 0"
         | sort: "top" -%}
       {%- for post in posts -%}
-        {%- if post.categories contains 'meetings' -%}
+        {%- if post.categories contains 'Meetings' -%}
           {%- continue -%}
         {%- endif -%}
         {%- include views/pagination-item.html -%}
@@ -29,7 +29,7 @@
     <!-- Normal list item -->
     {%- assign post_item_class = "" -%}
     {%- for post in paginator.posts -%}
-      {%- if post.categories contains 'meetings' -%}
+      {%- if post.categories contains 'Meetings' -%}
         {%- continue -%}
       {%- endif -%}
       {%- if post.top -%}
