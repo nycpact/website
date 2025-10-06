@@ -9,72 +9,59 @@ groups:
       - name: Dani Vilardell
         dept: CS
         email: dv296@cornell.edu
-        avatar: 
 
   - role: Treasurers
     members:
       - name: Nathan Cho
         dept: ORIE
         email: nc437@cornell.edu
-        avatar: 
       - name: Hal Triedman
         dept: CS
         email: hjt@cornell.edu
-        avatar: 
 
   - role: Strategic Officers
     members:
       - name: Jonathan Segal
         dept: IS
         email: jis62@cornell.edu
-        avatar: 
       - name: Rishi Jha
         dept: CS
         email: rdj58@cornell.edu
-        avatar: 
       - name: Ritik Batra
         dept: IS
         email: rb887@cornell.edu
-        avatar: ritik
 
   - role: Social Dictators
     members:
       - name: Teresa Parreira
         dept: IS
         email: mb2554@cornell.edu
-        avatar: teresa
       - name: Erica Chiang
         dept: CS
         email: esc99@cornell.edu
-        avatar: 
 
   - role: Wellbeing Officers
     members:
       - name: Sophie Greenwood
         dept: CS
         email: sg2387@cornell.edu
-        avatar: 
       - name: Evan Dong
         dept: CS
         email: zed5@cornell.edu
-        avatar: 
 
   - role: House Czar
     members:
       - name: Andrew Campbell
         dept: ECE
         email: ac2548@cornell.edu
-        avatar: 
 
   - role: Snack Czars
     members:
       - name: Nathan Cho
         dept: ORIE
         email: nc437@cornell.edu
-        avatar: 
       - name: Tauhid Tanjim
         dept: IS
         email: tt485@cornell.edu
-        avatar: 
 
 
