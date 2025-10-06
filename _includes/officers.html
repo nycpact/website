@@ -7,7 +7,7 @@
       <h3 class="officer-role">{{ group.role }}</h3>
       <ul class="officer-members">
         {% for member in group.members %}
-        {% assign first_name = member.name | split: " " | first %}
+        {% assign first_name = member.name | split: " " | first | downcase %}
         {% assign avatar = "/assets/images/board/" | append: first_name | append: ".png" %}
           <li class="officer-member">
             <img class="officer-avatar" src="{{ avatar }}" alt="{{ member.name }} avatar" width="{{ avatar_size }}" height="{{ avatar_size }}" loading="lazy"/>
