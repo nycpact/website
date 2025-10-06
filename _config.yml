@@ -41,7 +41,7 @@ description: Main homepage for PACT
 # You can use any html code, currently below placeholders are available:
 # * current year: {currentYear}
 # * author: {author} (Value is the same as site.author)
-# * copyright: (c) - ©
+copyright: (c) 2025 PhDs at Cornell Tech. Equal Education and Employment.
 # * copyleft: (cleft)
 # * sound recording copyright: (p) - ℗
 #
@@ -65,7 +65,7 @@ yat:
   date_format: "%b %d, %Y"
 
 # If you want more debug log, you can set true
-# debug: false
+debug: true
 
 # If you don't want transparent header, you can set false
 header_transparent: false
@@ -137,7 +137,7 @@ header_pages:
   - index.html
   - about.html
   - meetings.html
-  - categories.html
+  - resources.html
   - tags.html
 
 # Page default value

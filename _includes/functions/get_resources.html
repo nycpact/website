@@ -1,0 +1,17 @@
+{% assign split_mark = '<|>' %}
+
+{% assign resources = '' %}
+{% for resource in site.categories %}
+  {% assign name = resource | first %}
+  {% assign resources = resources | append: split_mark  | append: name %}
+{% endfor %}
+
+{% assign return = resources
+  | remove_first: split_mark
+  | split: split_mark
+  | sort: self %}
+
+
+
+  
+  

@@ -76,13 +76,13 @@
 <loc>http://localhost:4000/about.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/categories.html</loc>
-</url>
-<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/meetings.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/resources.html</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tags.html</loc>

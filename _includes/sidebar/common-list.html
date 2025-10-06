@@ -15,10 +15,9 @@
   <ul>
     <li>
       <a href="{{ '/index.html' | relative_url }}">
-        All<span>{{ posts.size }}</span>
+        All<span>{{ keys.size }}</span>
       </a>
     </li>
-
     {% for key in  keys %}
       {% if include.exclude_keys and include.exclude_keys contains key %}
         {% continue %}
